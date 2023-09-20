@@ -1,4 +1,7 @@
-# p5.js Template
+# week 3 exercise
+
+Image on repo:
+!(comic of a dog) (![Alt text](11598965590_.pic_hd%E7%9A%84%E5%89%AF%E6%9C%AC.jpg))
 
 This is a README file that can be used to describe and document your assignment.
 
